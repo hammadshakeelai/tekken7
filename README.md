@@ -48,3 +48,4 @@ On Windows: Use a tool like 7-Zip to "Split to volumes."
 You then upload all the parts. To use them, the person downloading would have to "re-join" them. (It's a bit clunky, but it works in a pinch!)
 
 ## Turns out tekken 7 is 40GB zip and isnt possible here all together and doing seprately would be a pain in the ass for downloader so imma try huggingface and link it here
+[huggingface  tekken7](https://huggingface.co/datasets/hmd911/tekken7)
